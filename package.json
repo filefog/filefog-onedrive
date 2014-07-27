@@ -1,6 +1,6 @@
 {
     "name": "filefog-onedrive",
-    "version": "0.0.0",
+    "version": "0.0.1",
     "description": "Microsoft onedrive (previously skydrive) provider for filefog",
     "main": "index.js",
     "scripts": {
@@ -33,6 +33,7 @@
         "provider",
         "wrapper",
         "onedrive",
-        "skydrive"
+        "skydrive",
+        "microsoft"
     ]
 }
