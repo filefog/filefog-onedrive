@@ -1,39 +1,39 @@
 {
-    "name": "filefog-onedrive",
-    "version": "0.0.3",
-    "description": "Microsoft onedrive (previously skydrive) provider for filefog",
-    "main": "index.js",
-    "scripts": {
-        "test": "make test"
-    },
-    "author": "Jason Kulatunga <jason@thesparktree.com>",
-    "repository": "git://github.com/filefog/filefog-onedrive.git",
-    "homepage": "http://github.com/filefog/filefog-onedrive",
-    "license": "MIT",
-    "devDependencies": {
-        "mocha": "^1.20.0",
-        "should": "^4.0.0",
-        "sinon": "^1.10.1",
-        "filefog-provider-tests": "*"
-    },
-    "optionalDependencies": {},
-    "engines": {
-        "node": "*"
-    },
-    "dependencies": {
-        "oauth": "^0.9.12",
-        "q": "^2.0.2",
-        "winston": "^0.7.3",
-        "node.extend": "^1.0.10",
-        "request": "^2.36.0"
-    },
-    "keywords": [
-        "orm",
-        "filefog",
-        "provider",
-        "wrapper",
-        "onedrive",
-        "skydrive",
-        "microsoft"
-    ]
+  "name": "filefog-onedrive",
+  "version": "0.0.4",
+  "description": "Microsoft onedrive (previously skydrive) provider for filefog",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "author": "Jason Kulatunga <jason@thesparktree.com>",
+  "repository": "git://github.com/filefog/filefog-onedrive.git",
+  "homepage": "http://github.com/filefog/filefog-onedrive",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^1.20.0",
+    "should": "^4.0.0",
+    "sinon": "^1.10.1",
+    "filefog-provider-tests": "*"
+  },
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  },
+  "dependencies": {
+    "oauth": "^0.9.12",
+    "q": "^2.0.2",
+    "winston": "^0.7.3",
+    "node.extend": "^1.0.10",
+    "request": "^2.36.0"
+  },
+  "keywords": [
+    "orm",
+    "filefog",
+    "provider",
+    "wrapper",
+    "onedrive",
+    "skydrive",
+    "microsoft"
+  ]
 }
